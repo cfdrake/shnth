@@ -1,4 +1,4 @@
--- shbobo shnth demo
+-- shbobo shnth test
 -- by @cfd90
 --
 -- prints out shnth values
@@ -66,7 +66,7 @@ function redraw()
   
   screen.move(1, 10)
   screen.level(1)
-  screen.text("shbobo shnth demo")
+  screen.text("shbobo shnth test")
   
   screen.move(1, 20)
   screen.level(15)
